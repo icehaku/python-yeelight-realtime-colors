@@ -3,6 +3,7 @@
 ### Description
 
 Real time yeelight control with python based on monitor main color.
+ps: just a poc!
 
 ### Demo
 
